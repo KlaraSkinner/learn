@@ -52,10 +52,12 @@ No. Many people with mental health conditions can be helped within the community
 ### 4-3 Which people with a mental health condition need referral for treatment?
 
 There are some people who will not be able to be helped in the community, and they need to be referred to a clinic or taken to the hospital for special care. If the person doesn’t feel better, or if you are worried, it is important to contact your supervisor for guidance. People who are psychotic and those who are suicidal need to be referred to the closest hospital immediately.
+{:.tighten-10}
 
 ### 4-4 Why are infancy and adolescence so important for mental health?
 
 During infancy and adolescence, the brain develops and changes very quickly. When a person reaches adulthood, brain development slows down. The brain is able to change and grow throughout life, but this takes more effort in older people. In adults, patterns of thinking and attitudes become more and more rigid and harder to change. This is why it is so important for infants to develop stress-free brains, and to encourage adolescents to develop healthy habits and ways of thinking, so these patterns are helpful throughout life.
+{:.tighten-10}
 
 > Reducing stress in infants and encouraging good habits in adolescents promotes healthy brain development.
 
@@ -73,6 +75,7 @@ This whole process can be quick, but mostly it will take a number of meetings to
 ### 4-6 Why is it helpful to listen well to someone with a mental health condition?
 
 When we listen actively without judgement and show we are curious and interested, the person will start to feel understood and connected. When people feel heard, they feel less alone and are able to relax.
+{:.tighten-8}
 
 > Listening well to people with a mental health condition is very helpful.
 
@@ -161,6 +164,7 @@ It’s not important if the mother doesn’t understand exactly what the cry mea
 ### 4-16 Why can it be difficult to help adolescents?
 
 It is often difficult to notice when adolescents have a mental health condition. This is because there is so much normal change happening at this age that it can be difficult to work out what is normal and what is a problem. What is important is that adults try to understand what is happening with their adolescent. It can often be very difficult to communicate with adolescents in ways that help them feel connected and understood. Adolescents don’t understand their own emotions. They need to be able to talk about what is happening to them with a calm and caring adult. Adolescents who are not heard will often show they are having emotional problems by behaving badly.
+{:.tighten-10}
 
 ### 4-17 What can be done to communicate better with adolescents?
 
@@ -228,9 +232,10 @@ It is important that the adult shows they are interested and care about the adol
 - Ask them about how they are feeling and try to understand how they think.
 - Listen carefully without judgement.
 - Ask the three Whooley questions.
-- If worried, be honest and tell the adolescent about your concern, taking care not to frighten them. The sooner mental health conditions are managed in this age group, the easier they are to treat.
+- If worried, be honest and tell the adolescent about your concern, taking care not to frighten them. The sooner mental health conditions are managed in this age group, the easier they are to&nbsp;treat.
 - Adolescents want to be treated as adults, but at the same time they need adult support and guidance. Always ask permission before taking action on their behalf.
 - If we are worried, we should always ask our supervisor, clinic or school staff for advice.
+{:.allow-break}
 
 ## Helping ourselves as care workers
 
@@ -247,6 +252,7 @@ Care workers need to make sure they live healthy lives. This means making sure o
 ### 4-24 What do we need to remember with social connections?
 
 One of the biggest challenges with care work is having to keep confidence. Confidentiality is a very important part of working with people and making sure others trust us. Confidentiality means we cannot share information about the people we visit and the things we learn about them with anyone, except our supervisors. This can be difficult to do, especially when we learn interesting or shameful things about people in our community. Knowing secrets can make us feel important and powerful. Some people like to show off by talking and gossiping about secrets. The community will quickly learn if a care worker cannot be trusted, and in the end this person will not be able to work effectively.
+{:.tighten-10}
 
 We are allowed to break confidentiality is someone tells us about plans to harm themselves or others. We need to warn the person about this rule. But if we share stories at peer meetings, we must not break confidence. This means we can share information with colleagues about what happened, but we need to tell the story in a way that doesn’t give away who the people in our story are.
 
@@ -259,6 +265,7 @@ We are allowed to break confidentiality is someone tells us about plans to harm 
 ### 4-25 What is suicide?
 
 Suicide means the person ends their life on purpose. This is a tragedy that can affect the family and the whole community very badly, for a very long time.
+{:.tighten-5}
 
 ### 4-26 Will asking people if they have thought about suicide make them more likely to do this?
 
@@ -280,6 +287,7 @@ If someone talks about wanting to hurt themselves or if they say they don't want
 - Stay calm. Tell them you want to help, but this is too big to manage alone, so you need to let the supervisor know.
 - Stay with the person while you contact your supervisor.
 - The person should be sent to hospital as soon as possible. They should not go alone.
+{:.allow-break}
 
 > Always take a threat of suicide very seriously, especially if the person has a plan to kill themselves.
 
@@ -394,6 +402,7 @@ At the end of the brainstorming there is usually a long list of possible ways to
 - You may find two or more ideas that can be joined together to create a solution.
 - Find out if the person has the necessary resources to try the idea.
 - Think about all the possibilities.
+{:.allow-break}
 
 ### 4-41 What needs to happen after the client has decided on a realistic solution?
 

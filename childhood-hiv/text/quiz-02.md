@@ -74,11 +74,11 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	PCR test
 	-	HIV culture
 	+	Rapid test
-14.	How long should you wait after stopping breastfeeding a nine-month-old child before doing an HIV PCR test to diagnose or exclude HIV infection?
-	-	72 hours
-	-	One week
-	+	Six weeks
-	-	18 months
+14.	How many HIV PCR tests are needed to confirm that an infant is infected with HIV?
+	-	One
+	+	Two
+	-	Three
+	-	Four
 15.	Which test can confirm that a six-week-old infant has HIV infection?
 	+	PCR test
 	-	Rapid test

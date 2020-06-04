@@ -102,9 +102,9 @@ Please choose the *one*, most correct answer to each question or statement.
 19.	Antiretroviral treatment during pregnancy should be provided with:
 	-	AZT alone
 	-	Nevirapine alone
-	+	A fixed drug combination dose (FDC) pill
+	+	A fixed drug combination dose (TLD) pill
 	-	AZT plus FDC
-20.	FDC is contra-indicated if the woman has:
+20.	TLD is contra-indicated if the woman has:
 	-	Stage 4 disease
 	+	Chronic renal disease
 	-	Oral candidiasis (thrush)

@@ -44,7 +44,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Whooping cough
 	-	Viral croup
 	+	Chronic lung disease
-8.	Co-trimoxazole is used to treat:
+8.	Cotrimoxazole is used to treat:
 	-	Herpes stomatitis
 	-	Cryptococcal meningitis
 	+	Pneumocystis pneumonia

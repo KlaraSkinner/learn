@@ -21,7 +21,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Steroids (prednisone)
 3.	Which is a common example of a ‘nuc’?
 	+	AZT
-	-	Nevirapine
+	-	NVP
 	-	Lopinavir/ritonavir
 	-	Fluconazole
 4.	What is lamivudine commonly known as?
@@ -31,7 +31,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	ABC
 5.	Aluvia is a trade name for:
 	-	Ritonavir
-	-	Tenofovir
+	-	TDF
 	+	A combination of lopinavir and ritonavir
 	-	A combination of nelfinavir and ritonavir
 6.	Can antiretroviral treatment cure children who are infected with HIV?
@@ -46,18 +46,18 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Complicated with more side effects
 8.	What is the standard first-line regimen for children younger than one month in South Africa?
 	-	ABC, 3TC, lopinavir/ritonavir
-	+	AZT, 3TC, lopinavir/ritonavir
-	-	ABC, 3TC, nevirapine
-	-	AZT, 3TC, nevirapine
-9.	What is the standard first-line combination used in children between one month and three years in South Africa?
-	+	AZT, 3TC, and nevirapine
+	-	AZT, 3TC, lopinavir/ritonavir
+	-	ABC, 3TC, NVP
+	+	AZT, 3TC, NVP
+9.	What is the standard first-line combination used in children weighing between 3 and 20 kg in South Africa?
+	-	AZT, 3TC, and NVP
 	-	AZT, ddI and lopinavir/ritonavir
-	-	AZT, ddI and nevirapine
-	-	ABC, 3TC and lopinavir/ritonavir
-10. What is the standard first-line combination used in children older than three years in South Africa?
-	+	ABC, 3TC and efavirenz
+	-	AZT, ddI and NVP
+	+	ABC, 3TC and lopinavir/ritonavir
+10. What is the standard first-line combination used in children weighing between 20 and 35 kg in South Africa?
+	+	ABC, 3TC and DTG
 	-	AZT, ddI and lopinavir/ritonavir
-	-	AZT, ddI and nevirapine
+	-	AZT, ddI and NVP
 	-	ABC, 3TC and lopinavir/ritonavir
 11.	How should antiretroviral drugs be taken?
 	-	It does not matter if one or two doses are missed a week.
@@ -69,17 +69,17 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	The dose is determined by the child’s age.
 	-	The dose is determined by the severity of the illness.
 	+	The dose is determined by the child’s weight.
-13.	Efavirenz is taken:
+13.	EFV is taken:
 	+	Once a day
 	-	Twice a day
 	-	Three times a day
 	-	Four times a day
 14.	Which antiretroviral drug can be kept at room temperature?
 	-	AZT suspension only
-	-	Nevirapine tablets only
+	-	NVP tablets only
 	+	Most antiretroviral drugs
-	-	Efavirenz capsules only
-15.	Nevirapine may cause:
+	-	EFV capsules only
+15.	NVP may cause:
 	-	Lactic acidosis
 	+	A severe skin rash
 	-	Lipodystrophy

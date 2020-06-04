@@ -64,7 +64,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	After a blood loss of more than 750 ml within the first seven days after delivery of the infant
 	-	Only after the patient has lost 1000 ml blood
 	+	Any haemorrhage following the delivery of the infant which appears to be excessive must be regarded as a postpartum haemorrhage.
-12.	What is the management of a retained placenta following the active management of the third stage of labour?
+12.	What is the management of a retained placenta following the active management of the third stage of labour, if a portion of the placenta is not palpable in the vagina or lower segment of the uterus?
 	-	Pethidine and diazepam (Valium) must be given intravenously and a manual removal of the placenta done in the labour ward.
 	+	An intravenous infusion with a side infusion containing 20 units of oxytocin should be started to ensure a well-contracted uterus and then the patient should be referred to hospital for a manual removal under general anaesthesia.
 	-	Allow a further 30 minutes of observation before referring the patient.
@@ -72,10 +72,10 @@ Please choose the *one*, most correct answer to each question or statement.
 13.	What should be done if a severe haemorrhage occurs before the delivery of the placenta and the third stage of labour is being managed by the passive method?
 	-	Wait until the signs of placental separation appear and then ask the patient to bear down.
 	-	Pull on the umbilical cord while pushing upwards on the uterus to get the placenta to separate as soon as possible.
-	+	A rapid intravenous infusion of 20 units oxytocin in 1000 ml Basol or normal saline must be started to ensure that the uterus is well contracted. Then a further attempt should be made to deliver the placenta.
+	+	A rapid intravenous infusion of 20 units oxytocin in 1000 ml Basol or normal saline must be started to ensure that the uterus is well contracted. The active method is then used to deliver the placenta.
 	-	Give 1 mg konakion by intramuscular injection and call a doctor to take over the management of the patient.
-14.	What should be the first step in the management of a postpartum haemorrhage when the placenta has already been delivered?
-	+	The uterus must immediately be rubbed up.
+14.	What should be the first steps in the management of a postpartum haemorrhage when the placenta has already been delivered?
+	+	Call for help and the uterus must immediately be rubbed up.
 	-	A rapid intravenous infusion of 20 units of oxytocin should be started.
 	-	The patient’s bladder must be emptied.
 	-	The cause of the bleeding must be looked for.
@@ -84,7 +84,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	The membranes are not complete.
 	+	The vaginal bleeding is intermittent and consists of dark red clots.
 	-	No uterus can be palpated on abdominal examination.
-16.	Which of the following is the most likely cause of a postpartum haemorrhage due to an atonic uterus?
+16.	Which of the following is the most common cause of a postpartum haemorrhage due to an atonic uterus?
 	-	Abruptio placentae
 	-	The use of oxytocin during the first stage of labour
 	-	Polyhydramnios

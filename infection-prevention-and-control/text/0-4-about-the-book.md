@@ -15,4 +15,5 @@ All royalties from the sale of this book will be donated to the Infection Contro
 
 We hope that you will find learning from this book enjoyable and that it will be valuable in your daily healthcare practice.
 
-*Angela Dramowski, David Woods and Shaheen Mehtar*
+<br>*Author: Prof Angela Dramowski* 
+<br>*Editors: Prof David Woods and Prof Shaheen Mehtar*

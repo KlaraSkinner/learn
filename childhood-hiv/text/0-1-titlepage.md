@@ -11,7 +11,7 @@ Childhood HIV
 What health professionals need to know
 {:.titlepage-subtitle}
 
-Written by David Woods and Brian Eley
+Written by Prof David Woods and Prof Brian Eley
 {:.titlepage-author}
 
 ![Bettercare logo]({{ images }}/bettercare-logo.svg){:.titlepage-logo}

@@ -1,4 +1,4 @@
-title: Childhood HIV. Quiz 4. Antiretroviral drugs
+title: Childhood HIV. Quiz 4. Antiretroviral drugs 
 
 
 How does antiretroviral treatment work?
@@ -15,7 +15,7 @@ Which group of drugs prevents CD4 cells from releasing HIV?
 
 Which is a common example of a ‘nuc’?
 +	AZT
--	Nevirapine
+-	NVP
 -	Lopinavir/ritonavir
 -	Fluconazole
 
@@ -27,7 +27,7 @@ What is lamivudine commonly known as?
 
 Aluvia is a trade name for:
 -	Ritonavir
--	Tenofovir
+-	TDF
 +	A combination of lopinavir and ritonavir
 -	A combination of nelfinavir and ritonavir
 
@@ -43,16 +43,22 @@ A standard regimen of antiretroviral drugs is:
 -	Not recommended in private practice as it is less effective
 -	Complicated with more side effects
 
-What is the standard first-line combination used in children younger than three years in South Africa?
--	ABC, 3TC and efavirenz
-+	ABC, 3TC and lopinavir/ritonavir
--	d4T, 3TC and ddI
--	AZT, ddI and efavirenz
+What is the standard first-line regimen for children younger than one month in South Africa?
+-	ABC, 3TC, lopinavir/ritonavir
+-	AZT, 3TC, lopinavir/ritonavir
+-	ABC, 3TC, NVP
++	AZT, 3TC, NVP
 
-What is the standard first-line combination used in children older than three years in South Africa?
-+	ABC, 3TC and efavirenz
+What is the standard first-line combination used in children weighing between 3 and 20 kg in South Africa?
+-	AZT, 3TC, and NVP
 -	AZT, ddI and lopinavir/ritonavir
--	AZT, ddI and nevirapine
+-	AZT, ddI and NVP
++	ABC, 3TC and lopinavir/ritonavir
+
+What is the standard first-line combination used in children weighing between 20 and 35 kg in South Africa?
++	ABC, 3TC and DTG
+-	AZT, ddI and lopinavir/ritonavir
+-	AZT, ddI and NVP
 -	ABC, 3TC and lopinavir/ritonavir
 
 How should antiretroviral drugs be taken?
@@ -67,19 +73,7 @@ How should doses of antiretroviral drugs be calculated for young children?
 -	The dose is determined by the severity of the illness.
 +	The dose is determined by the child’s weight.
 
-An important side effect of AZT is:
--	An itchy skin rash
-+	Anaemia
--	Peripheral neuropathy
--	Hepatitis
-
-When should ddI be taken?
--	With meals
--	Just before meals
--	Just after meals
-+	Not with meals
-
-Efavirenz is taken:
+EFV is taken:
 +	Once a day
 -	Twice a day
 -	Three times a day
@@ -87,15 +81,21 @@ Efavirenz is taken:
 
 Which antiretroviral drug can be kept at room temperature?
 -	AZT suspension only
--	Nevirapine tablets only
+-	NVP tablets only
 +	Most antiretroviral drugs
--	Efavirenz capsules only
+-	EFV capsules only
 
-Nevirapine may cause:
+NVP may cause:
 -	Lactic acidosis
 +	A severe skin rash
 -	Lipodystrophy
 -	Pancreatitis
+
+An important side effect of AZT is:
+-	An itchy skin rash
++	Anaemia
+-	Peripheral neuropathy
+-	Hepatitis
 
 Peripheral neuropathy usually presents as:
 -	Difficulty with speech

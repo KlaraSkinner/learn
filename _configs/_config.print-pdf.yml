@@ -43,6 +43,7 @@ exclude:
   # - childhood-hiv
   # - childhood-tb
   # - congenital-disorders
+  # - covid-19-guide-for-community-health-workers
   # - ebola-prevention-and-control
   # - facilitators-guide
   # - fetal-heart-rate-handbook
@@ -76,6 +77,7 @@ keep_files:
   # - childhood-hiv
   # - childhood-tb
   # - congenital-disorders
+  # - covid-19-guide-for-community-health-workers
   # - ebola-prevention-and-control
   # - facilitators-guide
   # - fetal-heart-rate-handbook

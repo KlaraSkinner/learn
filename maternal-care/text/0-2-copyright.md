@@ -7,7 +7,7 @@ style: copyright-page
 
 *Maternal Care: A health professional’s guide to pregnancy and childbirth*
 
-First published in 2010 by [Bettercare](http://bettercare.co.za). Updated March 2011, August 2011 (layout), August 2012, March 2014, August 2014, February 2015 (layout), January 2017 (significant changes), April 2017. This version produced on {{ site.time | date: '%-d %B %Y' }}.
+First published in 2010 by [Bettercare](http://bettercare.co.za). Updated March 2011, August 2011 (layout), August 2012, March 2014, August 2014, February 2015 (layout), January 2017 (significant changes), April 2017, May 2020 (significant changes). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
 Text © Perinatal Education Trust 2010
 

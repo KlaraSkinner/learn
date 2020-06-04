@@ -49,6 +49,7 @@ Mental health is important because it affects the choices we make, the way we wo
 ### 1-3 Is the brain the same as the mind?
 
 No. The brain and the mind are not the same. The brain is part of the body, and a living brain is needed to create the mind. The mind gives us a sense of awareness and helps us understand and make sense of the world. The mind and body are different, but connected. This means what happens in the body affects the mind, and what happens in the mind affects the body. The mind connects us to the world through sight, smell, hearing, taste and touch.
+{:.tighten-10}
 
 ## Stress
 
@@ -65,14 +66,17 @@ Stress happens when the body feels at risk because some need is not met. This co
 ### 1-6 Why do being alone and not feeling seen cause stress?
 
 Humans normally live in groups and have difficulty surviving alone. We need to be able to connect with other people. Humans are not the biggest, fastest or scariest animals on earth, yet humans are the most successful because we are able to connect, support one another and work together.
+{:.tighten-10}
 
 Pregnant women, babies, as well as sick, old and dying people get mental health problems more easily than other people and need extra kindness and support. We all need to know we have been ‘seen’ before we can feel safe and relax.
+{:.tighten-10}
 
 > Most people become stressed when they are alone and not supported by others.
 
 ### 1-7 Why is it so important for babies and young children to feel safe?
 
-We all need to feel safe and loved. Babies and young children are especially vulnerable and cannot survive without adult care. They need to feel connected, safe and loved so their brains and minds can develop in ways that allow them to think clearly and get along with other people.
+We all need to feel safe and loved. Babies and young children are especially vulnerable and cannot survive without adult care. They need to feel connected, safe and loved so their brains and minds can develop in ways that allow them to think clearly and get along with other&nbsp;people.
+{:.loosen-10}
 
 ### 1-8 What is toxic stress?
 
@@ -105,7 +109,8 @@ No. Mental health conditions such as anxiety and depression are not the same as 
 
 ### 1-12 Why are mental health conditions often not noticed?
 
-Many people do not know about mental health. They may not even realise they have a mental health condition or know that this can be treated. When people feel depressed or worried for a long time, they start to think this is normal for them, and often don’t think to ask for help. Fear of stigma also stops people from asking for help.
+Many people do not know about mental health. They may not even realise they have a mental health condition or know that this can be treated. When people feel depressed or worried for a long time, they start to think this is normal for them, and often don’t think to ask for help. Fear of stigma also stops people from asking for&nbsp;help.
+{:.loosen-5}
 
 ## Stigma
 
@@ -119,7 +124,8 @@ Stigma is when people feel judged and pushed away (rejected) by the community be
 
 People with mental health conditions are often stigmatised. This is because people don’t understand about mental health and think it is a very bad problem. Sometimes people think poor mental health is a punishment because the person has done something bad or that they have been bewitched. This is not true, and makes people suffer more.
 
-People with HIV or TB also experience stigma. In many communities, adolescent girls who are pregnant experience stigma. There may be other things in your community that make people judge others badly.
+People with HIV or TB also experience stigma. In many communities, adolescent girls who are pregnant experience stigma. There may be other things in your community that make people judge others&nbsp;badly.
+{:.loosen-5}
 
 ### 1-15 What causes stigma?
 
@@ -168,9 +174,10 @@ The body and mind are connected. We can see problems in the body (physical) but 
 
 ### 1-19 How do physical health problems affect mental health?
 
-Illness of the body and the side effects of medicine can change the way people think and feel. A serious illness can make people feel sad, frightened, worried or angry. When people feel they have no control they can begin to feel hopeless and can get depression.
+Illness of the body and the side effects of medicine can change the way people think and feel. A serious illness can make people feel sad, frightened, worried or angry. When people feel they have no control they can begin to feel hopeless and can get&nbsp;depression.
 
 Almost half of people with HIV and TB are depressed. A quarter of people with cancer, high blood pressure and diabetes also have mental health conditions. Mental health can also affect physical health. People with depression are more likely to get HIV or have a heart attack or a stroke.
+{:.loosen-5}
 
 > Mental and physical health affect each other.
 
@@ -178,7 +185,7 @@ Almost half of people with HIV and TB are depressed. A quarter of people with ca
 
 ### 1-20 What is a habit?
 
-A habit is something we do in a regular and repeated way, often without thinking. When we do something over and over it becomes like a well-worn path and we follow it automatically. Knowing what to expect helps our mind and body feel less stressed. For example, if the body is used to eating at certain times, that is when the person gets hungry. If the body is used to going to sleep at a certain time, that is when the person gets tired. The person may wake up at the same time because of habit.
+A habit is something we do in a regular and repeated way, often without thinking. When we do something over and over it becomes like a well-worn path and we follow it automatically. Knowing what to expect helps our mind and body feel less stressed. For example, if the body is used to eating at certain times, that is when the person gets hungry. If the body is used to going to sleep at a certain time, that is when the person gets tired. The person may wake up at the same time because of&nbsp;habit.
 
 > A habit is something that we do automatically without thinking.
 
@@ -205,7 +212,7 @@ The best way to get an adolescent to cooperate is to be a good role model. Adole
 - Adults must try to be open, trusting and respectful of the adolescent while also providing them with different ways of seeing life.
 - It works better when adults talk to adolescents about their concerns around any behaviour and link these concerns to their values and beliefs. Simply trying to control or force adolescents to think and behave in specific ways is usually not helpful.
 - It’s sometimes useful to speak to adolescents while they are doing something else, for example, while cooking, walking or after watching a TV programme.
-- Adults should try to talk openly, honestly and in a balanced way about topics that are important to adolescents like friendship, sex, love and relationships. Adults can warn them about the signs of unhealthy relationships, such as possessiveness, greed, jealousy and excessive control and manipulation, without frightening them.
+- Adults should try to talk openly, honestly and in a balanced way about topics that are important to adolescents like friendship, sex, love and relationships. Adults can warn them about the signs of unhealthy relationships, such as possessiveness, greed, jealousy and excessive control and manipulation, without frightening&nbsp;them.
 
 ### 1-23 Why is sleep so important?
 
@@ -237,6 +244,7 @@ The best way to do this is for the adults to have healthy sleep habits themselve
 - Encourage the adolescent to use their bed only for sleeping and not for homework.
 - Let them go to bed only when tired.
 - Avoid or limit technology use, such as TV or cellphones, at night.
+{:.allow-break}
 
 ### 1-26 Why are regular meals and healthy eating also important?
 
@@ -253,10 +261,12 @@ Adults need to be role models for healthy eating:
 - Make sure that there is only healthy food and no junk food in the home.
 - Encourage adolescents to start and take care of food gardens.
 - Keep healthy, fresh food options prepared and easily available for adolescents to snack on. For example, leave out fruit where it can be seen, prepare food and vegetables in advance, keep boiled eggs and beans in the fridge.
+{:.tighten-10}
 
 ### 1-28 Why is exercise important?
 
 Exercise and sport improve mood and limit depression and anxiety. Team sports also have many other benefits, especially for adolescents. Benefits of exercise include:
+{:.tighten-8}
 
 - Exercise helps adolescents develop lifelong healthy lifestyle habits.
 - It brings them into contact with other adolescents.
@@ -273,6 +283,7 @@ Many schools do not offer sport, so it is important to find places outside schoo
 ## Case study 1
 
 Your 15-year-old daughter stayed up late studying for a test. When she gets home from school the next day, you ask how the test went and she tells you it’s none of your business. You tell her to stop being so rude. She runs out of the room shouting that she hates you. On the way out she knocks over and breaks your favourite mug.
+{:.tighten-5}
 
 ### 1. Is this child just being naughty?
 

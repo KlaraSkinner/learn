@@ -67,7 +67,7 @@ Please choose the *one*, most correct answer to each question or statement.
 12.	What management would be correct if a patient with reduced fetal movements presents at a hospital that does not have a cardiotocograph (CTG machine)?
 	-	The responsible doctor must see the patient immediately as a Caesarean section should be done.
 	-	Refer the patient urgently to a hospital that has a cardiotocograph.
-	+	Exclude the possibility of fetal death by listening for the fetal heart with a stethoscope.
+	+	Exclude the possibility of fetal death by listening for the fetal heart with a Doppler fetal heart rate monitor.
 	-	Fetal movements must be counted again the next day.
 13.	How should a doctor manage a patient which has decreased fetal movements and a viable fetus, without any signs of intra-uterine growth restriction? The duration of pregnancy is 36 weeks.
 	+	If the cervix is favourable for induction of labour, the membranes must be ruptured and the fetal heart must be monitored carefully.

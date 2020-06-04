@@ -44,61 +44,61 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Smoking under 35 years of age
 	+	Smoking over 35 years of age
 	-	Non-smoking at 40 years of age
-8.	A healthy woman who is not a smoker and is on a combined pill should:
+8.	A young healthy woman who is not a smoker and is on a combined pill should:
 	-	Stop taking the pill after 1 year
 	-	Stop taking the pill after five years
 	-	Stop taking the pill for a few months periodically every few years
-	+	Stop taking the pill at 35 years of age if she has a body mass index (BMI) of 40 or more
-9.	An injectable is a suitable contraceptive method for a woman who:
-	-	Is planning a pregnancy within the next 6 months
-	+	Is planning a pregnancy in 1 to 2 years
-	-	Has a history of current breast cancer
-	-	Is 35 years old with two children and wants no further children
-10.	Lactation is reduced by:
+	+	Stop taking the pill at 50 years of age
+9.	Lactation is reduced by:
 	-	The progestogen-only pill (minipill)
 	-	An intra-uterine contraceptive device
 	-	An injectable
 	+	A combined oral contraceptive pill
-11.	The combined oral contraceptive pill may cause:
+10.	The combined oral contraceptive pill may cause:
 	-	Menorrhagia (heavy and/or prolonged menstruation)
 	-	Carcinoma of the ovary
 	+	Nausea and breast tenderness
 	-	Permanent infertility
-12.	The side effects of injectable contraceptives (depot progestogens) include:
+11.	The side effects of injectable contraceptives (depot progestogens) include:
 	-	Decreased lactation
 	-	Increased risk of pelvic infection
 	-	Increased risk of thromboembolism
 	+	Amenorrhoea
-13.	The effectiveness of combined oral contraceptive pills may be impaired by:
+12.	The effectiveness of combined oral contraceptive pills may be impaired by:
 	-	Aspirin
 	+	Antibiotics
 	-	Antacids
 	-	Coffee
-14.	Tubal ligation causes:
+13.	Tubal ligation causes:
 	-	Menstrual abnormalities
 	-	Weight gain
 	-	Headaches
 	+	None of the above
-15.	Health benefits of combined oral contraceptives include:
+14.	Health benefits of combined oral contraceptives include:
 	-	No effect on lactation
 	+	Less premenstrual tension
 	-	Less coronary artery disease
 	-	Less risk of HIV infection
-16.	An advantage of the condom as a method of contraception is that it:
+15.	An advantage of the condom as a method of contraception is that it:
 	-	Is very effective
 	+	Decreases the risk of sexually transmitted disease
 	-	Increases sensation during intercourse
 	-	Is socially acceptable to everyone
-17.	Which contraceptive method is most appropriate for a teenager who has had an unplanned pregnancy?
+16.	Which contraceptive method is most appropriate for a teenager who has had an unplanned pregnancy?
 	-	An intra-uterine contraceptive device
-	+	An implant
+	+	An injectable
 	-	A combined oral contraceptive pill
 	-	Postcoital contraception
-18.	A copper containing intra-uterine contraceptive device is a suitable method for a woman who:
+17.	An injectable is a suitable contraceptive method for a woman who:
+	-	Is planning a pregnancy within the next 6 months
+	-	Is planning a pregnancy in a year’s time
+	-	Has a history of severe depression
+	+	Is 23 years old with two children and wants no further children
+18.	An intra-uterine contraceptive device is a suitable method for a woman who:
 	+	Is lactating (breastfeeding)
-	-	Has multiple sexual partners
-	-	Is on treatment for pelvic inflammatory disease
-	-	Has excessive menstrual bleeding
+	-	Has more than one sexual partner
+	-	Has had an episode of pelvic inflammatory disease
+	-	Has a menstrual abnormality
 19.	A suitable contraceptive method for a female smoker aged 37 years who has recently had her third child is:
 	-	Ovral as a method of postcoital contraception
 	-	A combined oral contraceptive pill

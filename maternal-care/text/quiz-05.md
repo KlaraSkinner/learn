@@ -83,7 +83,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Do a vaginal examination to evaluate cervical dilatation and effacement.
 	-	Do an abdominal examination to evaluate the frequency and duration of uterine contractions.
 	-	Do a sterile speculum examination to see whether liquor is draining from the cervix.
-	+	Rule out fetal distress and estimate the gestational age as accurately as possible.
+	+	Estimate the gestational age as accurately as possible and rule out fetal distress.
 16.	Nifedipine (Adalat) should not be used in a patient with:
 	-	Asthma
 	-	Preterm rupture of the membranes

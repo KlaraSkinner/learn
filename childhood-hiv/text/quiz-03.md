@@ -29,24 +29,24 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Influenza vaccine
 	-	Tetanus vaccine
 	-	*Haemophilus influenza* vaccine
-5.	Primary prophylaxis with co-trimoxazole reduces the risk of which infection?
+5.	Primary prophylaxis with cotrimoxazole reduces the risk of which infection?
 	-	Tuberculosis
 	-	HIV
 	+	Pneumocystis jiroveci
 	-	Rota virus
-6.	When should co-trimoxazole prophylaxis be started in an HIV-exposed infant?
+6.	When should cotrimoxazole prophylaxis be started in an HIV-exposed infant?
 	-	At birth
 	+	At six weeks
 	-	At nine months
 	-	At one year
-7.	What important side effect may occur when children are given co-trimoxazole prophylaxis?
+7.	What important side effect may occur when children are given cotrimoxazole prophylaxis?
 	-	Shortness of breath
 	-	Jaundice
 	-	Severe diarrhoea
 	+	Severe skin rash
 8.	Why is good nutrition important in HIV-exposed infants?
 	-	It prevents them becoming HIV infected.
-	-	With good nutrition co-trimoxazole prophylaxis is not necessary.
+	-	With good nutrition cotrimoxazole prophylaxis is not necessary.
 	+	It helps to maintain the normal functioning of the immune system.
 	-	It prevents side effects of antiretroviral drugs.
 9.	The nutritional state should be routinely monitored by:
@@ -70,7 +70,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Zinc
 	-	Lead
 13.	Which drug can be used for regular deworming?
-	-	Co-trimoxazole
+	-	Cotrimoxazole
 	+	Mebendazole
 	-	Fluconazole
 	-	Metronidazole
@@ -108,4 +108,4 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Avoid homosexual contact
 	+	Delay sexual debut (first intercourse)
 	-	Use oral contraception
-	-	Use co-trimoxazole prophylaxis
+	-	Use cotrimoxazole prophylaxis

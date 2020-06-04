@@ -12,7 +12,7 @@ Please choose the *one*, most correct answer to each question or statement.
 1.	What is regionalised perinatal care?
 	-	All perinatal care in a town is provided in a single hospital.
 	-	All patients living in a community are delivered at the same clinic.
-	+	All perinatal care in a region is controlled by a single health authority.
+	+	All perinatal care in a region is provided by a clearly defined health system.
 	-	The community must provide the money needed to run the clinics in that region.
 2.	What percentage of patients can usually be classified as low risk?
 	-	10%
@@ -53,7 +53,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Only deliver patients if a doctor is present
 	+	Function as an independent nurse-practitioner (i.e. be responsible for all the clinical care given)
 	-	Only provide antenatal care
-	-	Only work in the clinic and not spend part of the year working in the referral hospital
+	-	Should not communicate with traditional healers
 10.	A perinatal-care clinic should:
 	-	Always be close to a district hospital.
 	-	Be separate from a centre which provides primary healthcare.

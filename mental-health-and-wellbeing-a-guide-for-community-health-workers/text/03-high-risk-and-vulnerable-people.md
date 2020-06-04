@@ -70,6 +70,7 @@ These mothers all have a much higher risk of common mental health conditions.
 ### 3-4 What common mental health conditions affect mothers?
 
 Mothers can develop the same mental health conditions as anyone else. In South Africa, 1 in 3 pregnant women will have depression or anxiety. These mental health conditions are more common during pregnancy and up to a year after the baby is born. It is important to notice mental health conditions as early as possible so they can be treated before they cause more problems for the mother and the baby.
+{:.loosen-10}
 
 > Mental health conditions, especially depression and anxiety, are more common during pregnancy and after childbirth.
 
@@ -161,6 +162,7 @@ There are quite a few things that infants need for mental health. These are:
 - Feeling safe with as little stress as possible
 - Adequate physical care, food and sleep
 - Stimulation through talking and play.
+{:.allow-break}
 
 Babies who have a positive early start to life are able to use this as a base for success in later life, and are more likely to succeed in relationships at school, work and in the community.
 
@@ -186,7 +188,8 @@ Mothers with a mental health condition can find it very difficult to talk to and
 
 ### 3-19 What are the signs of poor mental health in infants?
 
-You may notice that the baby is withdrawn, which they show by turning away or closing their eyes. The baby may also not be thriving, and could either not put on weight or may even lose weight. Other signs are not making eye contact, smiling late, being very quiet or crying a lot.
+You may notice that the baby is withdrawn, which they show by turning away or closing their eyes. The baby may also not be thriving, and could either not put on weight or may even lose weight. Other signs are not making eye contact, smiling late, being very quiet or crying&nbsp;a&nbsp;lot.
+{:.loosen-10}
 
 > Being withdrawn, not making eye contact and failing to thrive are signs of poor mental health in infants.
 
@@ -198,11 +201,12 @@ Adolescence starts at puberty when sex hormones make many changes happen in the 
 
 An adult is a person who is fully grown and developed. We use the word adult to talk about the older person who is responsible for the adolescent’s wellbeing. The adult is the person who makes sure the adolescent is cared for and protected physically and emotionally. This could be the mother, father, grandparents, other family members, foster parents, a teacher or care worker.
 
-*The body changes that happen during adolescence are described in the [Child and Adolescent Care for Community Health Workers](https://bettercare.co.za/learn/child-and-adolescent-care-for-community-health-workers/text/0-3-contents.html) book of the Bettercare series.*
+*The body changes that happen during adolescence are described in the* [Child and Adolescent Care for Community Health Workers](https://bettercare.co.za/learn/child-and-adolescent-care-for-community-health-workers/text/0-3-contents.html) *book of the Bettercare series.*
 
 ### 3-21 What big changes happen in the brain of adolescents?
 
 Adolescence is a very important stage of development when the child changes into an adult. It is easy to see the body changes, but we often forget about the big brain changes that happen at the same time:
+{:.loosen-10}
 
 - At puberty, sex hormones make adolescents very emotional. Their emotions can be very strong and can change very quickly.
 - The reward centre in the brain is very active in adolescents, which makes them respond strongly to being admired and liked (rewarded), more than at any other life stage. This helps them to connect with others, but also increases the risk of peer pressure and also addiction.
@@ -250,6 +254,7 @@ The mental conditions that adolescents develop most frequently are depression, a
 ### 3-25 Why do adolescents abuse alcohol and other harmful substances?
 
 Adolescents like to take risks, experiment and try to impress their friends. This is normal. They can also use alcohol and other harmful substances because they make them feel good or powerful, or can help them escape from their bad feelings. This may lead to alcohol and substance abuse. Cannabis (dagga) is often abused.
+{:.loosen-15}
 
 ### 3-26 Are harmful substances worse for adolescents than at other times of life?
 
@@ -276,8 +281,10 @@ Mental health conditions such as anxiety and depression are more common in the e
 > The elderly have a higher risk of poor mental health.
 
 ### 3-28 What can be done to promote mental health in the elderly?
+{:.keep-with-next}
 
 Many simple things can improve mental health:
+{:.keep-with-next}
 
 - Help older people to stay connected with family, friends and neighbours
 - Allow them to talk about their problems and fears
@@ -292,10 +299,12 @@ Care workers are all those people who work in areas where they are exposed to th
 ### 3-30 Why are care workers a high risk group?
 
 People who take care of other people can be stressed and very vulnerable to mental health problems if they do not know how to recognise and manage their own emotions. Care workers often put the needs of other people ahead of their own physical and emotional needs, but they also need to take care of themselves. If they don’t, this can affect their mental health, and their ability to give care to others.
+{:.tighten-5}
 
 ### 3-31 What mental health conditions do care workers experience?
 
 Care workers develop the same mental health conditions as anyone else in the community. This can be an even bigger problem if they live in the same community as those they look after. In these cases, they experience the problem as others do, but they also sometimes take on an extra burden from those for whom they care. Care workers who develop mental health conditions may end up causing harm instead of helping those they need to support.
+{:.loosen-5}
 
 Care workers need to give themselves the same care as they give to others.
 
@@ -320,6 +329,7 @@ No! This adolescent must be struggling with all the responsibility of being a mo
 ## Case study 2
 
 You have worked with Maluke for a few years. When she started in your team, she was always so kind and patient with even the most difficult people. Recently you have heard her shouting at children in the after-school programme. This morning you saw her hitting one of the young boys in the group, who she said was being cheeky.
+{:.tighten-8}
 
 ### 1. What do you think about the way Maluke is behaving?
 

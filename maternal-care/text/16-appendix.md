@@ -60,7 +60,7 @@ The level of care needed is shown as follows:
   <td rowspan='4'><p>37 years or more</p></td>
   <td rowspan='4'><p>Medical conditions such as hypertension and diabetes are commoner.</p>
    <p>Chromosome abnormalities are commoner, e.g. Down syndrome</p></td>
-  <td><p>Carefully look for medical problems at the first visit, and at 28 and 34 weeks.</p>
+  <td><p>Carefully look for medical problems at the first visit, and at 26 and 34 weeks.</p>
    <p>Motivate for sterilisation.</p></td>
   <td>&#160;</td>
  </tr>
@@ -70,7 +70,7 @@ The level of care needed is shown as follows:
   <td>2*</td>
  </tr>
  <tr>
-  <td>If more than 13 weeks, a genetic amniocentesis should be done between 16 and 22 weeks.</td>
+  <td>If more than 13 weeks, a genetic amniocentesis should be offered between 16 and 22 weeks.</td>
   <td>2*</td>
  </tr>
  <tr>
@@ -84,7 +84,7 @@ The level of care needed is shown as follows:
  <tr>
   <td><p>Allergies</p></td>
   <td><p>Penicillin allergy with an anaphylactic reaction is always dangerous, but rarely occurs.</p></td>
-  <td><p>Allergies must always be clearly documented on the folder and antenatal card.</p></td>
+  <td><p>Allergies must always be clearly documented in the Maternity Case Record.</p></td>
   <td><p>1</p></td>
  </tr>
  <tr>
@@ -96,7 +96,8 @@ The level of care needed is shown as follows:
    <p>With 1st visit in 2nd trimester, subtract 4&#160;kg</p>
    <p>With 1st visit in 3rd trimester, subtract 8&#160;kg</p></td>
   <td><p>Ultrasound examination for accurate gestational age estimation at 18-22 weeks.</p>
-   <p>Monitor for hypertension and glycosuria.</p></td>
+   <p>Monitor for hypertension and glycosuria.</p>
+   <p>Glucose profile and umbilical artery Doppler at 26 weeks</p></td>
   <td>&#160;</td>
  </tr>
  <tr>
@@ -116,7 +117,7 @@ The level of care needed is shown as follows:
   <td><p>Pregnancy worsens the diabetes.</p>
    <p>Insulin requirements increase.</p>
    <p>Higher incidence of fetal death.</p>
-   <p>Large babies with obstructed labour and birth injuries.</p>
+   <p>Large babies with obstructed labour, shoulder dystocia and birth injuries.</p>
    <p>Neonatal hypoglycaemia.</p></td>
   <td><p>Careful control of the diabetes, in order to keep the blood glucose levels as close to normal as possible is absolutely essential.</p></td>
   <td><p>3</p></td>
@@ -132,7 +133,7 @@ The level of care needed is shown as follows:
   <td>1</td>
  </tr>
  <tr>
-  <td><p>If present –</p><p>Glucose profile at 28 weeks. </p></td>
+  <td><p>If present –</p><p>Glucose profile at 26 weeks. </p></td>
   <td><p>2</p></td>
  </tr>
  <tr>
@@ -154,7 +155,7 @@ The level of care needed is shown as follows:
   <td>1</td>
  </tr>
  <tr>
-  <td><p>If more than 13 weeks, a genetic amniocentesis should be done between 16 and 22 weeks.</p></td>
+  <td><p>If more than 13 weeks, a genetic amniocentesis should be offered between 16 and 22 weeks.</p></td>
   <td>2</td>
  </tr>
  <tr>
@@ -168,7 +169,7 @@ The level of care needed is shown as follows:
   <td rowspan='2'><p>HIV</p></td>
   <td rowspan='2'><p>Mother-to-child transmission of HIV.</p>
    <p>With AIDS the mother’s clinical condition may deteriorate.</p></td>
-  <td><p>Commence patient on FDC if no contra-indications.</p>
+  <td><p>Commence patient on TLD if no contra-indications.</p>
    <p>If contra-indications refer to an antiretroviral (ARV) treatment clinic.</p></td>
   <td>1</td>
  </tr>
@@ -256,7 +257,7 @@ The level of care needed is shown as follows:
   <td>2</td>
  </tr>
  <tr>
-  <td><p>With diastolic 90 mm Hg or more or proteinuria –</p></td>
+  <td><p>With diastolic 90 mm Hg or more or systolic 140 mm Hg or more or proteinuria –</p></td>
   <td><p>3</p></td>
  </tr>
  <tr>
@@ -315,9 +316,9 @@ The level of care needed is shown as follows:
   <td><p>2</p></td>
  </tr>
  <tr>
-  <td><p>HIV positive and on FDC</p></td>
+  <td><p>HIV positive and on FDC or TLD</p></td>
   <td><p>High risk for serious liver damage</p></td>
-  <td><p>Stop FDC and refer to an ARV treatment clinic</p></td>
+  <td><p>Stop FDC or TLD and refer to an ARV treatment clinic</p></td>
   <td><p>2</p></td>
  </tr>
  <tr>
@@ -381,13 +382,13 @@ The level of care needed is shown as follows:
  <tr>
   <td><p>Diabetes mellitus</p></td>
   <td><p>Recurs in successive pregnancies. Complications already mentioned.</p></td>
-  <td><p>Random blood glucose if there is glycosuria.</p><p>Glucose profile at 28 weeks.</p></td>
+  <td><p>Random blood glucose if there is glycosuria.</p><p>Glucose profile at 26 weeks.</p></td>
   <td><p>2</p></td>
  </tr>
  <tr>
   <td><p>Ectopic pregnancy</p></td>
   <td><p>High risk of recurrence.</p></td>
-  <td><p>Gynaecological examination to confirm intra-uterine pregnancy (ultrasound if uncertain).</p></td>
+  <td><p>Gynaecological examination to confirm intra-uterine pregnancy.</p><p> Ultrasound is indicated.</p></td>
   <td><p>1</p></td>
  </tr>
  <tr>
@@ -409,6 +410,7 @@ The level of care needed is shown as follows:
   <td><p>Caesarean section(s)</p></td>
   <td><p>Danger of ruptured uterus with previous vertical uterine incision, or with two or more Caesarean sections.</p></td>
   <td><p>Get details of the indication and type of incision from old records.</p>
+   <p>Ultrasound for accurate gestational age.</p>
    <p>Elective Caesarean section at 39 weeks if 2 previous Caesarean sections or a vertical incision.</p></td>
   <td><p>2</p></td>
  </tr>
@@ -419,7 +421,7 @@ The level of care needed is shown as follows:
   <td><p>Genetic counselling. </p>
    <p>Determine the duration of pregnancy:</p>
    <p>If 13 weeks or less, an ultrasound examination for the nuchal thickness is done, followed at 22 weeks looking for structural defects.</p>
-   <p>If more than 13 weeks an amniocentesis should be done between 16 and 22 weeks.</p></td>
+   <p>If more than 13 weeks an amniocentesis should be offered between 16 and 22 weeks.</p></td>
   <td><p>2</p></td>
  </tr>
  <tr>
@@ -455,7 +457,7 @@ The level of care needed is shown as follows:
  </tr>
  <tr>
   <td><p>2. Previous pregnancy with pre-eclampsia developing in late 2nd or early 3rd trimester of pregnancy.</p></td>
-  <td><p>High risk of recurrence. Low dose aspirin (Disprin) 75 mg daily from 14 weeks.</p><p>2 weekly antenatal clinic visits from 24 weeks.</p></td>
+  <td><p>High risk of recurrence. Low dose aspirin (Disprin) 150 mg daily from 14 weeks.</p><p>2 weekly antenatal clinic visits from 24 weeks.</p><p>Calcium 500 mg tablets twice daily.</p></td>
   <td><p>2</p></td>
  </tr>
  <tr>
@@ -467,13 +469,13 @@ The level of care needed is shown as follows:
  <tr>
   <td><p>Vacuum extraction or forceps delivery</p></td>
   <td><p>May indicate cephalopelvic disproportion.</p></td>
-  <td><p>Careful use of the partogram in labour.</p></td>
+  <td><p>Correct use of the partogram in labour.</p></td>
   <td><p>1</p></td>
  </tr>
  <tr>
   <td><p>Preterm labour</p></td>
   <td><p>High risk of a recurrence in the same pregnancy.</p></td>
-  <td><p>Assess the cervix regularly from 26 to 32 weeks for changes, more regular bed rest, no intercourse in the second half of pregnancy. If there is cervical incompetence, a MacDonald suture may be indicated.</p></td>
+  <td><p>Assess the cervix regularly from 26 to 32 weeks for changes, more regular bed rest, no intercourse in the second half of pregnancy. If there is cervical incompetence, a MacDonald suture at 16 weeks may be indicated.</p></td>
   <td><p>3</p></td>
  </tr>
  <tr>
@@ -535,7 +537,7 @@ The level of care needed is shown as follows:
   <td>2</td>
  </tr>
  <tr>
-  <td><p>If count remains poor, admit to hospital.</p></td>
+  <td><p>If count remains poor, antenatal fetal heart rate monitoring.</p></td>
   <td><p>2</p></td>
  </tr>
  <tr>
@@ -546,7 +548,7 @@ The level of care needed is shown as follows:
  </tr>
  <tr>
   <td><p>Less than 8 mmol/l is normal. </p>
-<p>8 to 11 mmol/l – arrange for fasting blood glucose estimation.</p></td>
+<p>8 to 11 mmol/l – arrange for glucose profile.</p></td>
   <td>1</td>
  </tr>
  <tr>
@@ -618,7 +620,7 @@ The level of care needed is shown as follows:
   <td>2</td>
  </tr>
  <tr>
-  <td><p>More than 1 + indicates pre-eclampsia or serious kidney disease. Admit to hospital.</p></td>
+  <td><p>More than 1 + indicates pre-eclampsia or serious kidney disease. Serum creatinine to assess kidney function.</p></td>
   <td><p>2</p></td>
  </tr>
  <tr>
@@ -685,7 +687,7 @@ The level of care needed is shown as follows:
    <p>Oligohydramnios</p>
    <p>Fetal death.</p>
    <p>Incorrect dates.</p></td>
-  <td>Careful measurement of fundal growth and fetal movement counts:</td>
+  <td><p>Umbilical artery Doppler</p><p>Careful measurement of fundal growth and fetal movement counts:</p></td>
   <td>&#160;</td>
  </tr>
  <tr>
@@ -697,14 +699,14 @@ The level of care needed is shown as follows:
   <td>2</td>
  </tr>
  <tr>
-  <td><p>With few or no fetal movements, admit to hospital.</p></td>
+  <td><p>With few or no fetal movements, antenatal fetal heart rate monitoring.</p></td>
   <td><p>2</p></td>
  </tr>
  <tr>
   <td rowspan='3'><p>Abnormal lie</p></td>
   <td rowspan='3'><p>Breech, oblique or transverse lies suggest possible placenta praevia, multiple pregnancy or disproportion.</p></td>
   <td><p>Less than 34 weeks, not important.</p>
-   <p>If more than 34 weeks: exclude the named complications, and refer to a doctor for external cephalic version at 36 weeks, if there are no contraindications.</p></td>
+   <p>If more than 34 weeks: exclude the named complications, and refer to a doctor for external cephalic version at 38 weeks, if there are no contraindications.</p></td>
   <td>&#160;</td>
  </tr>
  <tr>
@@ -716,6 +718,26 @@ The level of care needed is shown as follows:
   <td><p>2</p></td>
  </tr>
  <tr>
+  <td rowspan='4'><p>Umbilical artery Doppler</p></td>
+  <td rowspan='4'><p>Placental insufficiency</p>
+   <p>IUGR</p><p>Poor SF growth</p></td>
+  <td>Resistance index:</td>
+  <td>&#160;</td>
+ </tr>
+ <tr>
+  <td> < 75th centile</td>
+  <td>1</td>
+ </tr>
+ <tr>
+  <td><p>≥ 75th and < 95th centile (equal to more thn the 75th centile)</p>
+   <p>Repeat after 2 weeks</p></td>
+  <td><p>1</p></td>
+ </tr>
+ <tr>
+  <td><p>≥ 95th centile (equal to more than the 95th centile)</p></td>
+  <td><p>2</p></td>
+ </tr>
+ <tr>
   <td colspan='4' class='table-subhead'><p>Social history</p></td>
   </tr>
  <tr>
@@ -723,6 +745,20 @@ The level of care needed is shown as follows:
   <td><p>Fetal alcohol syndrome.</p></td>
   <td><p>Counselling: no alcohol should be drunk during pregnancy.</p></td>
   <td><p>1</p></td>
+ </tr>
+ <tr>
+  <td rowspan='3'><p>Illicit drug use</p></td>
+  <td rowspan='3'><p>IUGR</p><p>Hypertension</p></td>
+  <td><p>Counselling</p></td>
+  <td>1</td>
+ </tr>
+ <tr>
+  <td>Do not use drugs if pregnant</td>
+  <td>&#160;</td>
+ </tr>
+ <tr>
+  <td><p>Social support</p></td>
+  <td><p>&#160;</p></td>
  </tr>
  <tr>
   <td><p>Religion (Customs)</p></td>

@@ -12,13 +12,13 @@ Please choose the *one*, most correct answer to each question or statement.
 1.	At which clinical stage should antiretroviral treatment be started in children older than 5 years?
 	-	Clinical stage 1
 	-	Clinical stage 2
-	+	Clinical stage 3 or 4
-	-	All children irrespective of clinical stage.
-2.	Which children should be fast tracked onto antiretroviral treatment?
-	+	A child with MDR-TB clinical disease
-	-	A 16 month old child with stage 1 disease
-	-	A child with a CD4 count of 250 cells/μl
-	-	A 6 year old child with stage 2 disease
+	-	Clinical stage 3 or 4
+	+	All children irrespective of clinical stage.
+2.  Which children should be fast tracked onto antiretroviral treatment? 
+    -   A child with MDR-TB clinical disease 
+	-   A 16 month old child with stage 1 disease 
+	-   A child with a CD4 count of 250 cells/μl 
+	+   A 6 year old child with stage 2 disease
 3.	Which one of the following is essential before starting antiretroviral treatment?
 	-	The mother should have at least seven years schooling.
 	+	There must be at least one responsible adult to help administer medication.
@@ -43,14 +43,14 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Two months
 	-	A months
 	-	Three weeks
-	+	Two weeks
+	+	Two counselling sessions
 8.	After starting antiretroviral treatment, when should you arrange the first follow-up visit?
 	-	One week
 	+	Two weeks
 	-	Three weeks
 	-	Four weeks
-9.	What special blood test should be done at the second follow-up visit if the child is receiving zidovudine?
-	+	Haemaglobin or full blood count
+9.	What special blood test should be done at the 3 month follow-up visit if the child is receiving AZT?
+	+	Full blood count and differential count
 	-	A lipid profile
 	-	Serum lactate concentration
 	-	Blood glucose concentration
@@ -82,27 +82,27 @@ Please choose the *one*, most correct answer to each question or statement.
 15.	Drug resistance may occur when:
 	-	INH prophylaxis for TB interferes with the antiretroviral drugs.
 	-	3 drugs are used instead of 4.	
-	+	Nevirapine is used as prophylaxis during delivery.
+	+	NVP is used as prophylaxis during delivery.
 	-	Steroids are given at the same time as antiretroviral treatment.
-16.	Which antiretroviral drug may interact with INH to cause peripheral neuropathy?
-	-	Efavirenz and nevirapine
-	+	d4T
-	-	AZT
-	-	Lopinavir/ritonavir
-17.	What should be done if the first-line treatment fails in spite of excellent compliance?
+16.	What should be done if the first-line treatment fails in spite of excellent compliance?
 	-	Increase the dose of the drugs.
 	-	Add a fourth antiretroviral drug.
 	+	Change to second-line treatment.
 	-	Nothing more can be offered as treatment.
-18.	What TB drug commonly interacts with antiretroviral treatment?
+17.	What TB drug commonly interacts with antiretroviral treatment?
 	-	Ethionamide
 	+	Rifampicin
 	-	Ethambutol
 	-	Pyrazinamide
+18.	Which antiretroviral drug may interact with INH to cause peripheral neuropathy?
+	-	EFV and NVP
+	+	d4T
+	-	AZT
+	-	Lopinavir/ritonavir
 19.	What is the immune reconstitution inflammatory syndrome (IRIS)?
 	-	One of the criteria for stage 4 HIV infection
 	-	A common indication for starting antiretroviral treatment
-	-	A serious side effect of nevirapine
+	-	A serious side effect of NVP
 	+	A possible reason for an unexpected deterioration after starting antiretroviral treatment
 20.	What immunisation is typically associated with the immune reconstitution inflammatory syndrome (IRIS) in children?
 	-	Polio

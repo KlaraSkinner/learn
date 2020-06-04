@@ -51,6 +51,7 @@ To be mentally healthy, people need to be able to balance all parts of their lif
 ### 2-3 What are the common mental health conditions?
 
 The most common mental health conditions are depression and anxiety. Depression and anxiety make people get stuck in negative thinking patterns that can go on for weeks or months. This makes it difficult for them to function normally and feel connected to other people.
+{:.tighten-5}
 
 Examples of less common mental health conditions are eating disorders, addictive behaviours and psychotic disorders such as schizophrenia.
 
@@ -73,16 +74,19 @@ We can ask the person the three Whooley questions as part of a kind and caring c
 3. In the past two weeks, have you been unable to stop worrying or thinking too much?
 
 If the person answers yes to any of these questions, we should ask if they would like help with their feelings. Ideas about ways we can give help are explained in the next chapter. People with common mental health conditions know who they are and should be supported to make decisions for themselves.
+{:.loosen-10}
 
 > Common mental health conditions can often be identified by asking the person how they are feeling.
 
 ### 2-6 What causes mental health conditions?
 
 There is no single cause of a mental health condition. It is usually a combination of inherited and learned ways of managing feelings, thoughts and behaviour, as well as other socio-economic and environmental factors. Toxic stress is an important cause of mental health conditions, especially in babies and children. Most mental health problems start very early in life. When babies and young children experience toxic stress and stop feeling safe and protected, their minds are not able to develop properly. The growth and development of unborn babies may be affected by anxiety in their mother.
+{:.tighten-5}
 
 ### 2-7 What are the other risk factors for developing mental health conditions?
 
-There are many risk factors for mental health conditions. Some people are more vulnerable than others, even when they experience the same risk factors. These are:
+There are many risk factors for mental health conditions. Some people are more vulnerable than others, even when they experience the same risk factors. These&nbsp;are:
+{:.loosen-8}
 
 - Poverty and financial problems
 - Lack of social support and relationship problems
@@ -95,6 +99,7 @@ There are many risk factors for mental health conditions. Some people are more v
 ### 2-8 What is depression?
 
 When a person is depressed, they have a low mood and feel down, have little interest or enjoyment in life and have low energy, which stops them acting normally. If these feelings last for two weeks or more, the person has a mental health condition called depression (depressive disorder).
+{:.tighten-8}
 
 > People with depression have a low mood, feel down and have little interest or enjoyment in life.
 
@@ -207,10 +212,12 @@ The best way to know is to ask. We cannot always see or notice if the person is 
 ### 2-20 How can a suspected diagnosis of a common mental condition be confirmed?
 
 The diagnosis can only be confirmed by a doctor or mental health nurse who is trained in recognising and managing mental health conditions. It is therefore important to refer anyone that you suspect may have a common mental health condition.
+{:.loosen-5}
 
 ### 2-21 How are mental health conditions noticed in adolescents?
 
 Mental health problems can be very difficult to notice in adolescents, because this is already a time of big changes. It can be difficult to know if the changes in emotions and behaviour are normal or if they are caused by a mental health condition.
+{:.tighten-15}
 
 Adolescents usually find it difficult to understand and also to talk about their feelings. Some adolescents may feel ashamed to talk about their lives.
 
@@ -305,6 +312,7 @@ Any person who you think is at risk of suicide must be referred urgently for fur
 ## Case study 1
 
 Andile is 16 years old. His mother brings him to see you and asks for advice on how to help her son. Andile looks like he is in good health and has not been sick over the past year, but he keeps complaining of tiredness and says he struggles to sleep at night. Andile says he has no energy to play soccer with his friends. This is something he used to enjoy. His mother tells you that Andile is always very irritable. She is worried because he used to be a good student but now his teachers are complaining that he has not been doing his homework properly and his marks are poor.
+{:.loosen-8}
 
 ### 1. Is Andile just being lazy?
 

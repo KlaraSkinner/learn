@@ -48,7 +48,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	About 5 000
 	-	About 50 000
 	-	About 150 000
-	+	About 240 000
+	+	About 260 000
 9.	When is HIV most commonly spread from mother to child?
 	-	During pregnancy
 	+	During labour and vaginal delivery
@@ -75,12 +75,12 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	They are used during pregnancy and labour.
 	-	They are used after delivery only.
 14.	For infants who are exclusively breast-fed, prophylactic antiretroviral drugs can reduce the risk of perinatal HIV transmission to as low as:
-	+	5%
+	+	2%
 	-	10%
 	-	15%
 	-	20%
 15.	Which regimen of antiretroviral treatment given to the mother is most effective in reducing mother-to-child transmission of HIV?
-	-	Nevirapine and AZT
+	-	NVP and DTG
 	+	TDF, 3TC plus EFV
 	-	3TC alone
 	-	Lopinavir/ritonavir alone

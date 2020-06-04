@@ -17,4 +17,4 @@ Our sincere thanks go to the publishers for their willingness to support this pr
 
 Royalties from the sale of this book will go to Eduhealthcare, a not-for-profit organisation, which has the goal of improving the healthcare of children, especially in poor countries, through the education of nurses and doctors. We thank Eduhealthcare for generously funding this project.
 
-*Professor David Woods and Professor Brian Eley*
+<br>*Prof David Woods and Prof Brian Eley*

@@ -46,18 +46,18 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Congenital abnormalities caused by antihypertensive drugs
 8.	A patient with pre-eclampsia who develops a diastolic blood pressure of 105 mm Hg and 2+ proteinuria at 36 weeks of pregnancy should be graded as having:
 	+	Pre-eclampsia
-	-	Severe pre-eclampsia
-	-	Imminent eclampsia
+	-	Pre-eclampsia with severe features
+	-	Chronic hypertension with superimposed pre-eclampsia
 	-	Eclampsia
-9.	What is an important sign of imminent eclampsia?
+9.	What is an important sign of pre-eclampsia with severe features?
 	-	3 + proteinuria
 	+	Increased tendon reflexes
-	-	A diastolic blood pressure of 110 mm Hg or more
+	-	A diastolic blood pressure of 100 mm Hg
 	-	Tenderness on palpating the calves
 10.	A patient with pre-eclampsia has a diastolic blood pressure of 95 mm Hg and 1+ proteinuria. She complains of flashes of light in front of her eyes and upper abdominal pain. In which of the following grades of pre-eclampsia should you put this patient?
 	-	Pre-eclampsia
-	-	Severe pre-eclampsia
-	+	Imminent eclampsia
+	-	Gestational hypertension
+	+	Pre-eclampsia with severe features
 	-	Eclampsia
 11.	Which of the following women has the highest risk of pre-eclampsia?
 	+	A patient with a history of pre-eclampsia starting early in the third trimester of a previous pregnancy
@@ -76,9 +76,9 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	A loading dose of magnesium sulphate
 14.	Which one of the following is the method of delivery usually chosen in a patient with pre-eclampsia?
 	-	Caesarean section
-	-	Surgical induction followed by vaginal delivery at 34 weeks
-	+	Surgical induction followed by vaginal delivery if 36 weeks gestation has been reached.
-	-	Waiting until 42 weeks for a spontaneous onset of labour.
+	-	Surgical induction followed by vaginal delivery at 32 weeks
+	+	Surgical induction followed by vaginal delivery if 34 weeks gestation has been reached.
+	-	Waiting until 40 weeks for a spontaneous onset of labour.
 15.	What is an important complication of pre-eclampsia?
 	-	Placenta praevia
 	-	Oedema of the face
