@@ -60,10 +60,10 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	An intravenous infusion with 20 units of oxytocin should be put up after delivery of the placenta.
 	-	The haemoglobin concentration must be estimated every 2 hours for the first 12 hours after delivery.
 11.	How frequently should a primipara visit the clinic for postpartum care in the puerperium?
-	-	At least daily for 7 days
-	-	At least daily for 5 days and again on day 7
-	+	At least on days 1, 3, 5 and 7
-	-	The patient must be kept in hospital for at least 5 days.
+	-	At least daily for seven days
+	-	At least daily for 5 days and again on day seven
+	+	At least once between days 3 and 6
+	-	The patient must be kept in hospital for at least 5 days
 12.	A patient has puerperal pyrexia if her temperature:
 	-	Rises to 37.3 °C and is maintained for 24 hours during the first 10 days postpartum
 	-	Rises to 38 °C or higher and is maintained for 24 hours during the first 10 days postpartum
@@ -92,7 +92,7 @@ Please choose the *one*, most correct answer to each question or statement.
 17.	What is a secondary postpartum haemorrhage?
 	-	Any vaginal bleeding that appears excessive, after the first hour following delivery of the placenta
 	+	Any vaginal bleeding that appears excessive, after the first 24 hours following delivery of the placenta
-	-	Any vaginal bleeding that appears excessive, between the 5th and 15th day of the puerperium
+	-	Any vaginal bleeding that appears excessive, between the fifth and 15th day of the puerperium
 	-	Any vaginal bleeding in the puerperium which is severe enough to cause the patient to become shocked
 18.	What is the most common cause of a secondary postpartum haemorrhage?
 	+	Intra-uterine infection with or without a retained piece of placenta
@@ -102,7 +102,7 @@ Please choose the *one*, most correct answer to each question or statement.
 19.	The treatment of a patient with a secondary postpartum haemorrhage will include:
 	-	Ampicillin and metronidazole (Flagyl)
 	-	Syntometrine and/or oxytocin
-	-	Removal of retained products of conception under general anaesthesia
+	-	Removal of retained products of conception under spinal or general anaesthesia
 	+	All of the above
 20.	Observations of the presence or absence of offensive lochia in the patient or jaundice in her infant in the puerperium:
 	+	Can be made by the patient as well as the midwife

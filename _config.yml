@@ -24,7 +24,7 @@ edition: "default"
 
 # To make absolute links work, e.g. in canonical links in <head>,
 # include the url where this site will live when it's live (production).
-canonical-url: "http://example.com"
+canonical-url: "https://bettercare.co.za"
 
 # If you're using GitHub Pages without a custom domain, make this
 # the name of your repo, e.g. /electric-book
@@ -62,7 +62,7 @@ mathjax-font: "Gyre-Pagella"
 # turned on by those formats' _config files.
 collections:
   docs:
-    output: true
+    output: false
 
 # --------------------------------------------
 # CHANGE THESE SETTINGS ONLY IF/WHEN NECESSARY
@@ -140,6 +140,7 @@ exclude:
 # - congenital-disorders
 # - covid-19-guide-for-community-health-workers
 # - ebola-prevention-and-control
+# - empathetic-care-a-guide-for-community-health-workers
 # - facilitators-guide
 # - fetal-heart-rate-handbook
 # - immunisations-a-guide-for-community-health-workers
@@ -174,6 +175,7 @@ keep_files:
 # - congenital-disorders
 # - covid-19-guide-for-community-health-workers
 # - ebola-prevention-and-control
+# - empathetic-care-a-guide-for-community-health-workers
 # - facilitators-guide
 # - fetal-heart-rate-handbook
 # - immunisations-a-guide-for-community-health-workers

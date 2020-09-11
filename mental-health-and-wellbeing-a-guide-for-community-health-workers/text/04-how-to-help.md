@@ -308,7 +308,7 @@ There are many simple things we can do to help people who are struggling. For ex
 
 Active listening means we listen to try and understand not just what the person is saying, but also the non-verbal emotions and body language.
 
-*Active listening is explained in detail in* Compassionate Care, *a forthcoming book on empathic communication and care in the Bettercare series.*
+*Active listening is explained in detail in* [Empathetic Care]({{ path-to-root-directory }}empathetic-care-a-guide-for-community-health-workers/text/0-3-contents.html), *a book on empathic communication and care in the Bettercare series.*
 
 > Active listening not only assesses what someone says, but takes note of their non-verbal emotions and body language.
 

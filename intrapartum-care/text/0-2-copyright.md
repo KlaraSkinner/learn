@@ -7,7 +7,7 @@ style: copyright-page
 
 *Intrapartum Care: An advanced-midwife’s guide to labour and delivery*
 
-First published in 2009 by [Bettercare](http://bettercare.co.za). Updated February 2011, February 2015 (layout), July 2017 (significant changes). This version produced on {{ site.time | date: '%-d %B %Y' }}.
+First published in 2009 by [Bettercare](http://bettercare.co.za). Updated February 2011, February 2015 (layout), July 2017 (significant changes), August 2020. This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
 Text © Perinatal Education Trust 2009  
 Illustrations by Anne Westoby  

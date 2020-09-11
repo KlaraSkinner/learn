@@ -308,7 +308,7 @@ Care workers develop the same mental health conditions as anyone else in the com
 
 Care workers need to give themselves the same care as they give to others.
 
-*Bettercare has a forthcoming book called* Compassionate Care *dedicated to this topic.*
+*Bettercare has a book called* [Empathetic Care]({{ path-to-root-directory }}empathetic-care-a-guide-for-community-health-workers/text/0-3-contents.html) *dedicated to this topic.*
 
 > Care workers should be supported as they face many emotional stresses.
 

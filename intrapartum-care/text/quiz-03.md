@@ -24,16 +24,16 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	After 2 hours
 	-	After 8 hours
 	-	When the patient wants to bear down
-4.	A patient presents in the latent phase of labour. After 8 hours she has not progressed to the active phase of labour despite regular contractions. Which of the following is the correct management?
+4.	A patient presents in the latent phase of labour. After 12 hours she has not progressed to the active phase of labour despite regular contractions. Which of the following is the correct management?
 	-	She should be discharged home.
 	-	If there have been no cervical changes, the membranes should be ruptured.
 	+	If there has been slow dilatation and effacement of the cervix, it may be necessary to rupture the membranes.
 	-	An oxytocin infusion should be started.
 5.	A patient is admitted in established labour with regular contractions and ruptured membranes. On vaginal examination the cervix is 5 cm dilated. Where should her cervical dilatation be noted on the partogram?
-	+	On the alert line opposite 5 cm cervical dilatation
-	-	At the beginning of the latent phase of labour opposite 5 cm cervical dilatation
-	-	At the end of the latent phase of labour opposite 5 cm cervical dilatation
-	-	On the vertical line at the beginning of the active phase of labour opposite 5 cm cervical dilatation
+	+	On the alert line opposite 6 cm cervical dilatation
+	-	At the beginning of the latent phase of labour opposite 6 cm cervical dilatation
+	-	At the end of the latent phase of labour opposite 6 cm cervical dilatation
+	-	On the vertical line at the beginning of the active phase of labour opposite 6 cm cervical dilatation
 6.	You should be satisfied with the progress of labour during the active phase when:
 	+	Cervical dilatation falls on or to the left of the alert line together with less fetal head palpable above the pelvis.
 	-	The cervix dilates at a rate of 2 cm per hour
@@ -79,7 +79,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	A Caesarean section should be done.
 	-	The patient should be given pethidine and promethazine (Phenergan).
 	-	The patient should be reassured that she will labour and deliver normally.
-15.	A primigravida presents in labour at term. She is having 2 contractions of 35 seconds each every 10 minutes. The cervix is 3 cm dilated and the membranes have ruptured. Her cervical dilatation is plotted on the alert line. 4 hours later the cervix is 4 cm dilated and her other observations are unchanged. There are no signs of cephalopelvic disproportion. What is the correct management?
+15.	A primigravida presents in labour at term. She is having 2 contractions of 35 seconds each every 10 minutes. The cervix is 5 cm dilated and the membranes have ruptured. Her cervical dilatation is plotted on the alert line. 4 hours later the cervix is 6 cm dilated and her other observations are unchanged. There are no signs of cephalopelvic disproportion. What is the correct management?
 	+	An oxytocin infusion should be started.
 	-	A Caesarean section should be done.
 	-	She should be given pethidine and hydroxyzine (Aterax).

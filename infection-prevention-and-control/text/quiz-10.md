@@ -63,15 +63,15 @@ Please choose the *one*, most correct answer to each question or statement.
     +	Coughing into your bent elbow
     -	Taking a few deep breaths every hour
 
-10.	What is social distancing?
+10.	What is physical distancing?
     +	People staying more than 1 metre away from each other
     -	Not talking to strangers
     -	Not allowing beggars into urban areas
     -	Preventing foreigners entering the country
 
-11.	Does wearing a simple face mask help to prevent one from becoming infected with coronavirus?
+11.	Does wearing a simple face mask help to prevent the spread of coronavirus?
     -	Yes it is very effective
-    -	It is recommended when going out in public
+    -	It is only recommended when going out in public
     -	It is only recommended for the elderly
     +	No as it is not effective protection
 
@@ -120,7 +120,7 @@ Please choose the *one*, most correct answer to each question or statement.
 19.	What is personal protective equipment?
     -	Sterile gown and gloves, boots and cap
     -	Gown, apron and simple face mask
-    +	Gown, gloves, goggles and N95 mask
+    +	Gown, gloves, goggles and N95 ventilator
     -	A gun or taser
 
 20.	What can be used to disinfect equipment?
